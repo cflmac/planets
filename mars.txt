@@ -1,1 +1,3 @@
 mars is a planet
+
+it is red and cold and has martians
